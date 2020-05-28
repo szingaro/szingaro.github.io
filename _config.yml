@@ -4,14 +4,9 @@ description: > # this means to ignore newlines until "show_excerpts:"
 
 show_excerpts: true
 
-# Minima date format
 minima:
   date_format: "%b %-d, %Y"
 
-#header_pages:
-# - about.md
-
-# Build settings
 theme: minima
 
 plugins:
